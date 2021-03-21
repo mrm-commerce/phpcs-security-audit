@@ -14,6 +14,12 @@ phpcs-security-audit v3
 
 </div>
 
+Disclaimer
+-----
+This ruleset is based on a fork of the https://github.com/FloeDesignTechnologies/phpcs-security-audit repository created and maintained by [Jonathan Marcil](https://github.com/jmarcil). Includes customizations of the parent project because at the time of creating this repository the parent project didn't seem to be actively maintained anymore. See the source code history to see what's the original code and what's an addition after the fork.
+
+
+
 About
 -----
 phpcs-security-audit is a set of [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) rules that finds vulnerabilities and weaknesses related to security in PHP code.

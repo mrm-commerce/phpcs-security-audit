@@ -1,12 +1,17 @@
 {
-    "name": "pheromone/phpcs-security-audit",
+    "name": "bgorski/phpcs-security-audit",
     "type" : "phpcodesniffer-standard",
     "description": "phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code",
     "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Jonathan Marcil",
-            "homepage": "https://twitter.com/jonathanmarcil"
+            "homepage": "https://twitter.com/jonathanmarcil",
+            "role": "The author and maintainer of the original project (https://github.com/FloeDesignTechnologies/phpcs-security-audit) on which this project is based."
+        },
+        {
+            "name": "Bartosz Gorski",
+            "role": "Creator and maintainer of the https://github.com/bgorski/phpcs-security-audit fork of the original project."
         }
     ],
     "require": {
