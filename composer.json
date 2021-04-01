@@ -1,5 +1,5 @@
 {
-    "name": "bgorski/phpcs-security-audit",
+    "name": "mrm-commerce/phpcs-security-audit",
     "type" : "phpcodesniffer-standard",
     "description": "phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code",
     "license": "GPL-3.0-or-later",
@@ -11,7 +11,8 @@
         },
         {
             "name": "Bartosz Gorski",
-            "role": "Creator and maintainer of the https://github.com/bgorski/phpcs-security-audit fork of the original project."
+            "role": "Creator and maintainer of the fork by MRM Commerce.",
+            "email": "bartosz.gorski@mrm.com"
         }
     ],
     "require": {
