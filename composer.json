@@ -25,6 +25,9 @@
         "php-parallel-lint/php-console-highlighter": "^0.4",
         "phpunit/phpunit": "^4.5 || ^5.0 || ^6.0"
     },
+    "replace": {
+        "pheromone/phpcs-security-audit": "*"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true,
     "autoload": {
